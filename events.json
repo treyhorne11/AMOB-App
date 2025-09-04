@@ -1,5 +1,13 @@
 [
   {
+    "name": "Roll Back Day",
+    "date": "2025-09-15",
+    "time": "11:00 AM",
+    "location": "All AMOB Location",
+    "details": "Live music and oyster specials all night!",
+    "link": "https://www.example.com/oysterfest"
+  },
+  {
     "name": "Oyster Fest",
     "date": "2025-09-20",
     "time": "4:00 PM",
