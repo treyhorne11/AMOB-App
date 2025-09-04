@@ -1,19 +1,17 @@
 [
   {
-    "name": "Live Music Night",
-    "date": "2025-09-10",
-    "time": "7:00 PM",
-    "location": "Cortez Patio",
-    "details": "Enjoy local artists and seafood specials all night! For more info visit www.oystersrock.net"
-    "link": https://oystersrock.net
+    "name": "Oyster Fest",
+    "date": "2025-09-20",
+    "time": "4:00 PM",
+    "location": "Pier Location",
+    "details": "Live music and oyster specials all night!",
+    "link": "https://www.example.com/oysterfest"
   },
   {
-    "name": "Seafood Festival",
-    "date": "2025-09-15",
-    "time": "12:00 PM",
-    "location": "Ellenton Parking Lot",
-    "details": "Vendors, food trucks, live music, and more."
-    "link": "https://oystersrock.net"
+    "name": "Trivia Night",
+    "date": "2025-09-25",
+    "time": "7:00 PM",
+    "location": "Ellenton",
+    "details": "Bring your friends and win prizes!"
   }
 ]
-
