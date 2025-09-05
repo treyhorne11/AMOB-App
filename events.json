@@ -22,5 +22,13 @@
     "location": "Anna Maria Oyster Bar Landside",
     "details": "A curated crustacean dinner experience to support Shuckin' Good Cause! Cost is $150 per ticket.",
     "link": "https://www.oysterbar.net/daily-deals/"
+  },
+  {
+    "name": "OneBlood Blood Drive",
+    "date": "2025-10-30",
+    "time": "11:00 AM",
+    "location": "All AMOB Locations",
+    "details": "Come visit the OneBlood buses at the Anna Maria Oyster Bar and give blood!",
+    "link": "https://www.oystersrock.net/fsfc"
   }
 ]
