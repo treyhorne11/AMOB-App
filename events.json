@@ -16,19 +16,19 @@
     "link": "https://www.oysterbar.net/"
   },
   {
-    "name": "Curated Crustacean Dinner",
-    "date": "2025-09-28",
-    "time": "5:30 PM",
-    "location": "Anna Maria Oyster Bar Landside",
-    "details": "A curated crustacean dinner experience to support Shuckin' Good Cause!\nCost is $150 per ticket.",
-    "link": "https://www.oysterbar.net/daily-deals/"
-  },
-  {
     "name": "OneBlood Blood Drive",
     "date": "2025-10-30",
     "time": "11:00 AM",
     "location": "All AMOB Locations",
     "details": "Come visit the OneBlood buses at the Anna Maria Oyster Bar and give blood!",
-    "link": "https://www.oystersrock.net/fsfc"
+    "link": "https://www.oystersrock.net/"
+  },
+  {
+    "name": "Shuckin Good Cause Long Table Crustacean Dinner",
+    "date": "2025-11-02",
+    "time": "5:30 PM",
+    "location": "Anna Maria Oyster Bar Landside",
+    "details": "A curated crustacean dinner experience to support Shuckin' Good Cause!\nCost is $150 per ticket.",
+    "link": "https://www.oysterbar.net/"
   }
 ]
