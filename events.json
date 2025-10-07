@@ -21,14 +21,14 @@
     "time": "11:00 AM",
     "location": "All AMOB Locations",
     "details": "Come visit the OneBlood buses at the Anna Maria Oyster Bar and give blood!",
-    "link": "https://www.oystersrock.net/"
+    "link": "https://www.oysterbar.net/"
   },
   {
-    "name": "Shuckin Good Cause Long Table Crustacean Dinner",
+    "name": "Crustacean Dinner",
     "date": "2025-11-02",
     "time": "5:30 PM",
     "location": "Anna Maria Oyster Bar Landside",
-    "details": "A curated crustacean dinner experience to support Shuckin' Good Cause!\nCost is $150 per ticket.",
-    "link": "https://www.oysterbar.net/"
+    "details": "A five course coastal seafood experience with beverage pairings and an unforgettable night filled with live music, Amanda’s Wine Wall, raffles, and silent auctions.\nCost is $150 per ticket.",
+    "link": "https://www.oystersrock.net/CrustaceanDinner"
   }
 ]
