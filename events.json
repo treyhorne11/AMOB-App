@@ -30,5 +30,13 @@
     "location": "Anna Maria Oyster Bar Landside",
     "details": "A five course coastal seafood experience with beverage pairings and an unforgettable night filled with live music, Amanda’s Wine Wall, raffles, and silent auctions.\nCost is $150 per ticket.",
     "link": "https://www.oystersrock.net/CrustaceanDinner"
+  },
+  {
+    "name": "Christmas Day",
+    "date": "2025-12-25",
+    "time": "11:00 AM",
+    "location": "All Oysters Rock Hospitality locations",
+    "details": "We will be closed on Christmas Day so that our staff can spend the day with their families.",
+    "link": "https://www.oystersrock.net/"
   }
 ]
