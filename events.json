@@ -38,5 +38,13 @@
     "location": "All Oysters Rock Hospitality locations",
     "details": "We will be closed on Christmas Day so that our staff can spend the day with their families.",
     "link": "https://www.oystersrock.net/"
+  },
+  {
+    "name": "Christmas Eve",
+    "date": "2025-12-24",
+    "time": "11:00 AM",
+    "location": "All Oysters Rock Hospitality locations",
+    "details": "We will be closed on Christmas Day so that our staff can spend the day with their families.",
+    "link": "https://www.oystersrock.net/"
   }
 ]
