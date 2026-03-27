@@ -46,5 +46,13 @@
     "location": "All Oysters Rock Hospitality locations",
     "details": "We will be closed on Christmas Day so that our staff can spend the day with their families.",
     "link": "https://www.oystersrock.net/"
+  },
+  {
+    "name": "Sip & Savor: Shuck, Sip & Sustain",
+    "date": "2026-04-23",
+    "time": "5:30 PM",
+    "location": "Anna Maria Oyster Bar UTC, 5405 University Parkway, Unit 110, University Park, FL 34201",
+    "details": "This Earth Day-inspired event brings together fresh Gulf oysters, Oyster Bay Wines, and a hands-on coastal experience in partnership with Oyster River Ecology.",
+    "link": "https://tables.toasttab.com/anna-maria-oyster-bar-utc/experience/sip-savor-shuck-sip-and-sustain"
   }
 ]
